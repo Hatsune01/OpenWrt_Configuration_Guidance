@@ -23,9 +23,11 @@
             "id": "295e724c8f16732b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Deploy ownCloud.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deploy ownCloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deploy ownCloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deploy ownCloud.md"
+              }
             }
           }
         ]
