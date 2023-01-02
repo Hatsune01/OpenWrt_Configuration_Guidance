@@ -1,4 +1,4 @@
-## This is a repo for the tutorials I've written  with Obsidianmostly for my own reference purposes.
+## This is a repo for the tutorials I've written with Obsidian mostly for my own reference purposes.
 
 ## 21 Feb 2022 
 Rearranged the repo structure.  
