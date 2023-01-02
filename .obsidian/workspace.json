@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "3c8ddc272291b74a",
+    "type": "split",
+    "children": [
+      {
+        "id": "373ce62c8b884651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0e6593442fa2631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "295e724c8f16732b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6abcacc95ac053f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "90037336dee41132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44fec237e345ba2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e06bf9c0f0e5d9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Networking",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "036ff30adc779a02",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e099dc4a59bc4ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dfc6c0fdb82f7f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aecfa335800393ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f782b029089a600f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5a2502b8b37b283",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7826bf57cc79dda6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "295e724c8f16732b",
+  "lastOpenFiles": [
+    "README.md",
+    "Set Up Reverse Proxy on Apache.md",
+    "MySQL Notes.md",
+    "Initialise OpenWrt Network Settings.md",
+    "Deploy ownCloud.md",
+    "Enable HTTPS for Apache.md",
+    "Deploy Teamspeak Server.md",
+    "Deploy Grafana and Prometheus Using Docker.md",
+    "Assets/Database Basic Concepts.png",
+    "Templates/New KB Article.md"
+  ]
+}
