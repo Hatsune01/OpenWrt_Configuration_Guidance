@@ -2,11 +2,6 @@ Tags: #Homelab #WorkInProgress
 Categories: #Guide
 LastEdited: 2022-03-28
 
-## Notes
-- Not finished yet
-
----
-
 ## 1. Update the system
 ```shell
 apt-get update && apt upgrade

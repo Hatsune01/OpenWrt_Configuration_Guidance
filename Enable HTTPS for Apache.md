@@ -1,7 +1,6 @@
 Tags: #Sysadmin   
-Categories: 
-
----
+Categories: #Guide 
+LastEdited: 2022-07-04
 
 ## 1. Use Certbot (HTTP challenge)
 
