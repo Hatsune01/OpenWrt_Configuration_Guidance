@@ -1,4 +1,6 @@
-#Homelab 
+Tags: #Homelab #WorkInProgress
+Categories: #Guide
+LastEdited: 2022-03-28
 
 ## Notes
 - Not finished yet
