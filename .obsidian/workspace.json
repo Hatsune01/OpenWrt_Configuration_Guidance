@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md",
+                "file": "Set Up Reverse Proxy on Apache.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Networking",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md",
+                "file": "Set Up Reverse Proxy on Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md",
+                "file": "Set Up Reverse Proxy on Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md"
+                "file": "Set Up Reverse Proxy on Apache.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae92661130c3a728",
+  "active": "c44fec237e345ba2",
   "lastOpenFiles": [
-    "Set Up Reverse Proxy on Apache.md",
+    "README.md",
     "Initialise OpenWrt Network Settings.md",
     "Enable HTTPS for Apache.md",
     "Deploy Teamspeak Server.md",
     "Deploy ownCloud.md",
     "Deploy Grafana and Prometheus Using Docker.md",
-    "README.md",
+    "Set Up Reverse Proxy on Apache.md",
     "MySQL Notes.md",
     "Assets/Database Basic Concepts.png",
     "Templates/New KB Article.md"

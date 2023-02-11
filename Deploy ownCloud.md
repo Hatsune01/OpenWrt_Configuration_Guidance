@@ -2,6 +2,8 @@ Tags: #Sysadmin  #Homelab
 Categories: #DeployLogs
 LastEdited: 2022-12-20
 
+---
+
 ## 0. Notes
 - Apache is recommended for ownCloud, since ownCloud uses a lot of PHP and Apache is good at this.
 
