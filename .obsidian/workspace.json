@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md",
+                "file": "Templates/New KB Article.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md",
+                "file": "Templates/New KB Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md",
+                "file": "Templates/New KB Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initialise OpenWrt Network Settings.md"
+                "file": "Templates/New KB Article.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "ae92661130c3a728",
   "lastOpenFiles": [
+    "Initialise OpenWrt Network Settings.md",
     "README.md",
     "Set Up Reverse Proxy on Apache.md",
-    "Initialise OpenWrt Network Settings.md",
     "Enable HTTPS for Apache.md",
     "Deploy Teamspeak Server.md",
     "Deploy ownCloud.md",
