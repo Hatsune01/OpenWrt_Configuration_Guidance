@@ -23,8 +23,12 @@
             "id": "295e724c8f16732b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -152,10 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c44fec237e345ba2",
+  "active": "295e724c8f16732b",
   "lastOpenFiles": [
-    "Assets/Database Basic Concepts.png",
     "MySQL Notes.md",
+    "Assets/Database Basic Concepts.png",
     "Deploy Grafana and Prometheus Using Docker.md",
     "Initialise OpenWrt Network Settings.md",
     "Enable HTTPS for Apache.md",
