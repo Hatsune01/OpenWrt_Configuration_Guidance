@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "373ce62c8b884651",
+        "id": "fab35c8d5fff17ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e6593442fa2631",
+            "id": "ae92661130c3a728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "295e724c8f16732b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md",
+                "file": "Deploy Teamspeak Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md",
+                "file": "Deploy Teamspeak Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md",
+                "file": "Deploy Teamspeak Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md"
+                "file": "Deploy Teamspeak Server.md"
               }
             }
           }
@@ -160,15 +147,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "295e724c8f16732b",
+  "active": "ae92661130c3a728",
   "lastOpenFiles": [
+    "Deploy ownCloud.md",
     "README.md",
+    "Deploy Grafana and Prometheus Using Docker.md",
     "MySQL Notes.md",
     "Assets/Database Basic Concepts.png",
-    "Deploy Grafana and Prometheus Using Docker.md",
     "Initialise OpenWrt Network Settings.md",
     "Enable HTTPS for Apache.md",
-    "Deploy ownCloud.md",
     "Set Up Reverse Proxy on Apache.md",
     "Deploy Teamspeak Server.md",
     "Templates/New KB Article.md"
