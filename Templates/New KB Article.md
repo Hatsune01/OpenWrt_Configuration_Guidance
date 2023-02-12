@@ -1,6 +1,6 @@
-# Titles
-
-tags
+Tags: 
+Categories: 
+LastEdited: xxxx-xx-xx
 
 ---
 
