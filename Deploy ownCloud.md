@@ -1,5 +1,5 @@
-Tags: #Sysadmin  #Homelab 
-Categories: #DeployLogs
+Tags: #Guide 
+Categories: #Sysadmin #Homelab 
 LastEdited: 2022-12-20
 
 ---

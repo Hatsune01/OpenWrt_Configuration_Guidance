@@ -1,5 +1,5 @@
 Tags: #Homelab #WorkInProgress
-Categories: #Guide
+Categories: #Homelab 
 LastEdited: 2022-03-28
 
 ---
