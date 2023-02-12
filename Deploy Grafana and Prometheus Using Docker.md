@@ -1,5 +1,5 @@
-Tags:  #Sysadmin 
-Categories: #DeployLogs
+Tags:  #Guide 
+Categories: #Sysadmin 
 LastEdited: 2022-11-10
 
 ---

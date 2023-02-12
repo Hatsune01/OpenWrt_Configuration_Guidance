@@ -1,5 +1,5 @@
-Tags: #Networking #Homelab 
-Categories: #Guide 
+Tags: #Guide 
+Categories: #Networking #Homelab 
 LastEdited: 2021-08-14
 
 > SSH into OpenWrt first.
