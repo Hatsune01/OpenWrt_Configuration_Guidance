@@ -137,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae92661130c3a728",
+  "active": "7826bf57cc79dda6",
   "lastOpenFiles": [
     "Set Up Reverse Proxy on Apache.md",
     "Enable HTTPS for Apache.md",
