@@ -4,7 +4,7 @@ categories:
 - How-To
 - Web Server
 date: 2022-06-17
-description: In this article, name-based reverse proxy with SSL on Apache is discussed .
+description: In this article, name-based reverse proxy with SSL on Apache is discussed.
 slug: set-up-reverse-proxy-on-apache
 tags:
 - Apache
