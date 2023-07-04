@@ -1,19 +1,15 @@
 ---
 categories:
 - Sysadmin
-- HowTo
+- How-To
 date: "2012-04-06"
-description: spf13-vim is a cross platform distribution of vim plugins and resources
-  for Vim.
+description: spf13-vim is a cross platform distribution of vim plugins and resources for Vim.
 slug: spf13-vim-3-0-release-and-new-website
 tags:
-- .vimrc
-- plugins
-- spf13-vim
-- vim
-title: spf13-vim 3.0 release and new website
-Tags:  #Guide 
-Categories: #Sysadmin 
+- Docker
+- Grafana
+- Prometheus
+title: Deploy Grafana and Prometheus via Docker
 LastEdited: 2022-11-10
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md",
+                "file": "Deploy Grafana and Prometheus Via Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md",
+                "file": "Deploy Grafana and Prometheus Via Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md",
+                "file": "Deploy Grafana and Prometheus Via Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy Grafana and Prometheus Using Docker.md"
+                "file": "Deploy Grafana and Prometheus Via Docker.md"
               }
             }
           }
@@ -165,7 +165,7 @@
     "Deploy Teamspeak Server.md",
     "Enable HTTPS for Apache.md",
     "Templates/New KB Article.md",
-    "Deploy Grafana and Prometheus Using Docker.md",
+    "Deploy Grafana and Prometheus Via Docker.md",
     "MySQL Notes.md",
     "Assets/Database Basic Concepts.png"
   ]
