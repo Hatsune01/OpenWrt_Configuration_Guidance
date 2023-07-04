@@ -4,8 +4,8 @@ categories:
 - How-To
 - Web Server
 date: 2022-07-04
-description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
-slug: deploy-grafana-and-prometheus-via-docker
+description: This article introduces two methods for getting SSL certificates for Apache, one by HTTP challenge, and the other by DNS validation. These methods also apply to Nginx.
+slug: enable-https-for-apache
 tags:
 - SSL
 - Apache
