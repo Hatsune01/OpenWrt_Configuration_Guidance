@@ -11,7 +11,7 @@ tags:
 - ownCloud
 - Redis
 - LAMP
-title: Deploy Grafana and Prometheus via Docker
+title: Deploy ownCloud
 ---
 
 ## 0. Notes

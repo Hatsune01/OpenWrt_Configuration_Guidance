@@ -1,7 +1,15 @@
-Tags: #Guide 
-Categories: #Sysadmin #WebHosting
-LastEdited: 2022-07-04
-
+---
+categories:
+- Sysadmin
+- How-To
+- Web Server
+date: 2022-07-04
+description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
+slug: deploy-grafana-and-prometheus-via-docker
+tags:
+- SSL
+- Apache
+title: Enable HTTPS for Apache
 ---
 
 ## 1. Use Certbot (HTTP challenge)
