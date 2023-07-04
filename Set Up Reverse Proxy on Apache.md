@@ -3,14 +3,13 @@ categories:
 - Sysadmin
 - How-To
 - Web Server
-date: 2022-11-10
+date: 2022-06-17
 description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
-slug: deploy-grafana-and-prometheus-via-docker
+slug: set-up-reverse-proxy-on-apache
 tags:
-- Docker
-- Grafana
-- Prometheus
-title: Deploy Grafana and Prometheus via Docker
+- Apache
+- Reverse Proxy
+title: Set Up Reverse Proxy on Apache
 ---
 
 Tags: #Guide 
