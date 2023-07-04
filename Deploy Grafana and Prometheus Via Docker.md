@@ -2,15 +2,14 @@
 categories:
 - Sysadmin
 - How-To
-date: "2012-04-06"
-description: spf13-vim is a cross platform distribution of vim plugins and resources for Vim.
-slug: spf13-vim-3-0-release-and-new-website
+date: 2022-11-10
+description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
+slug: deploy-grafana-and-prometheus-via-docker
 tags:
 - Docker
 - Grafana
 - Prometheus
 title: Deploy Grafana and Prometheus via Docker
-LastEdited: 2022-11-10
 ---
 
 ## 1. Install Docker
