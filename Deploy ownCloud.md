@@ -1,3 +1,18 @@
+---
+categories:
+- Sysadmin
+- How-To
+date: 2022-12-20
+description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
+slug: deploy-grafana-and-prometheus-via-docker
+tags:
+- ownCloud
+- Redis
+- LAMP
+- iSCSI
+title: Deploy Grafana and Prometheus via Docker
+---
+
 Tags: #Guide 
 Categories: #Sysadmin #Homelab 
 LastEdited: 2022-12-20
