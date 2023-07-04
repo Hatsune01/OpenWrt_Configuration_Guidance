@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy Grafana and Prometheus Via Docker.md",
+                "file": "Templates/New KB Article.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy Grafana and Prometheus Via Docker.md",
+                "file": "Templates/New KB Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy Grafana and Prometheus Via Docker.md",
+                "file": "Templates/New KB Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy Grafana and Prometheus Via Docker.md"
+                "file": "Templates/New KB Article.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "ae92661130c3a728",
   "lastOpenFiles": [
-    "Templates/New KB Article.md",
     "Deploy Grafana and Prometheus Via Docker.md",
+    "Templates/New KB Article.md",
     "Set Up Reverse Proxy on Apache.md",
     "README.md",
     "Initialise OpenWrt Network Settings.md",

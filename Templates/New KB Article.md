@@ -11,10 +11,3 @@ tags:
 - Prometheus
 title: Deploy Grafana and Prometheus via Docker
 ---
-
-## 1. foobar
-
----
-
-## Sources
-[title](https://foo.bar)
