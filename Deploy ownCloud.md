@@ -5,8 +5,8 @@ categories:
 - Cloud Storage
 - Homelab
 date: 2022-12-20
-description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
-slug: deploy-grafana-and-prometheus-via-docker
+description: ownCloud is a very minimalistic cloud storage solution with great plugins like OnlyOffice and Impersonate.
+slug: deploy-owncloud
 tags:
 - ownCloud
 - Redis
