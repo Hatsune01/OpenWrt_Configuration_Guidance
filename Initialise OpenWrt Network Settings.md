@@ -1,6 +1,15 @@
-Tags: #Guide 
-Categories: #Networking #Homelab 
-LastEdited: 2021-08-14
+---
+categories:
+- Homelab
+- How-To
+- Networking
+date: 2021-08-14
+description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
+slug: initialise openwrt network settings
+tags:
+- OpenWrt
+title: Initialise OpenWrt Network Settings
+---
 
 > SSH into OpenWrt first.
 
