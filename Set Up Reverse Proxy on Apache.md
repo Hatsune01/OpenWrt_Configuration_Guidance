@@ -4,7 +4,7 @@ categories:
 - How-To
 - Web Server
 date: 2022-06-17
-description: Grafana and Prometheus are good monitoring tools. With the use of Docker, the deployment of these two gets way easier.
+description: In this article, name-based reverse proxy with SSL on Apache is discussed .
 slug: set-up-reverse-proxy-on-apache
 tags:
 - Apache
@@ -16,7 +16,7 @@ Tags: #Guide
 Categories: #Sysadmin #WebHosting 
 LastEdited: 2022-06-17
 
-> Only name-based reverse proxy with SSL is discussed in this article.
+> Only 
 
 ---
 
