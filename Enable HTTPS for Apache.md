@@ -54,7 +54,7 @@ Add the CNAME records per the instructions given by Certbot, and the SSL certifi
 
 ---
 
-## Credits
+## References
 
 [Jay's video on using Certbot to get an SSL certificate](https://youtu.be/WPPBO-QpiJ0)
 
