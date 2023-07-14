@@ -112,7 +112,7 @@ owncloud.conf
       Dav off 
     </IfModule>
     # Apache DAV module is disabled, since ownCloud has its built-in WebDAV server.
-    </Directory>
+  </Directory>
 
   ErrorLog ${APACHE_LOG_DIR}/error.log
   CustomLog ${APACHE_LOG_DIR}/access.log combined
