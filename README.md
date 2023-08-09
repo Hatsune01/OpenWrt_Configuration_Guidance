@@ -1,5 +1,3 @@
-# This is a repository for the tech docs I've written with Obsidian for future references.
-
 # Change Logs (Repo Workflow-Related Only)
 
 ## 2 Jan 2023
