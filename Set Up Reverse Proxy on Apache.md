@@ -2,7 +2,8 @@
 categories:
 - Sysadmin
 - How-To
-- Web Server
+- Web Hosting
+- Work in Progress
 date: 2022-06-17
 description: In this article, name-based reverse proxy with SSL on Apache is discussed.
 slug: set-up-reverse-proxy-on-apache
@@ -12,9 +13,6 @@ tags:
 title: Set Up Reverse Proxy on Apache
 ---
 
-Tags: #Guide 
-Categories: #Sysadmin #WebHosting 
-LastEdited: 2022-06-17
 
 > Only 
 
