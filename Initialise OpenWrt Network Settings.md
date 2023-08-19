@@ -4,6 +4,7 @@ categories:
 - How-To
 - Networking
 date: 2021-08-14
+lastmod: 2021-08-14
 description: I reckon this might be the very start of all my homelab and sysadmin related stuff.
 slug: initialise-openwrt-network-settings
 tags:

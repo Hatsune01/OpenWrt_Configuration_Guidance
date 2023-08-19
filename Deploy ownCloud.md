@@ -5,6 +5,7 @@ categories:
 - Cloud Storage
 - Homelab
 date: 2022-12-20
+lastmod: 2022-12-20
 description: ownCloud is a very minimalistic cloud storage solution with great plugins like OnlyOffice and Impersonate.
 slug: deploy-owncloud
 tags:

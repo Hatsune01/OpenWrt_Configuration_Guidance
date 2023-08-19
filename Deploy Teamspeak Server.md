@@ -4,6 +4,7 @@ categories:
 - How-To
 - Work in Progress
 date: 2022-03-28
+lastmod: 2022-03-28
 description: Work in progress
 slug: deploy-teamspeak-server
 tags:

@@ -3,6 +3,7 @@ categories:
 - Sysadmin
 - How-To
 date: 2023-08-10
+lastmod: 2023-08-10
 description: iSCSI boasts strong IO performance among many network storage sharing solutions. This article discusses how to configure an iSCSI initiator to discover and connect to a target, plus a little info regarding mkfs and fstab.
 slug: configure-iscsi-initiator-and-mount-via-fstab
 tags:

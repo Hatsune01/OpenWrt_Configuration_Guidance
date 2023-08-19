@@ -4,6 +4,7 @@ categories:
 - How-To
 - Web Hosting
 date: 2022-07-04
+lastmod: 2022-07-04
 description: This article introduces two methods for getting SSL certificates for Apache, one by HTTP challenge, and the other by DNS validation. These methods also apply to Nginx.
 slug: enable-https-for-apache
 tags:
