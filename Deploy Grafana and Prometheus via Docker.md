@@ -39,7 +39,7 @@ mv node_exporter-1.4.0.linux-amd64 /usr/local/bin/node_exporter
 groupadd prometheus
 useradd -g prometheus -m -d /var/lib/prometheus -s /sbin/nologin prometheus
 mkdir /usr/local/prometheus
-chown prometheus.prometheus -R /usr/local/prometheus
+chown prometheus:prometheus -R /usr/local/prometheus
 
 cat > /etc/systemd/system/node_exporter.service << EOF
 [Unit]
